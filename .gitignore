@@ -9,3 +9,17 @@ buildNumber.properties
 .mvn/timing.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
+/TPJPA/build/
+/TPJPA/dist/
+/TPJPA/nbproject/private/
+/EJBTP1/nbproject/private/
+/EJBTP1/EJBTP1-ejb/nbproject/private/
+/EJBTP-app-client/nbproject/private/
+/EJBTPLib/nbproject/private/
+/EJBTPLib/build/
+/EJBTPLib/dist/
+/EJBTP1/EJBTP1-ejb/dist/
+/EJBTP1/EJBTP1-ejb/build/
+/EJBTP1/build/
+/EJBTP-app-client/dist/
+/EJBTP-app-client/build/
